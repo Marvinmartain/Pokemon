@@ -5,7 +5,7 @@
     font-family: 'Roboto', sans-serif;
 }
 body{
-    background-color: #25211457;
+    background-color: #08233a1f;
 }
 .container{
     width: 90%;
@@ -23,9 +23,9 @@ body{
 }
 .card{
     width: 180px;
-    background-color:#12121344;
+    background-color:#4c89b144;
     border-radius: 1rem;
-    box-shadow: 0 5px 5px rgba(156, 12, 12, 0.555);
+    box-shadow: 0 5px 5px rgba(105, 127, 138, 0.39);
     padding: 0 1.5rem;
     display: flex;
     align-items: center;
@@ -59,7 +59,7 @@ body{
     margin-top: 1rem;
 }
 .abilities .group{
-    background-color: #b745546e;
+    background-color: #146bbd6e;
     color: rgba(214, 200, 200, 0.966);
     padding: 0.5rem;
     font-size: 12px;
@@ -81,7 +81,7 @@ body{
     font-size: 17px;
     font-weight: bold;
     color: rgba(214, 200, 200, 0.966);
-    background-color: #b745546e;
+    background-color: #146bbd6e;
     border-radius: 8px;
     cursor: pointer;
 }
