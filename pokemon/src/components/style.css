@@ -23,9 +23,9 @@ body{
 }
 .card{
     width: 180px;
-    background-color:#4c89b144;
+    background-color:#7c6e7c44;
     border-radius: 1rem;
-    box-shadow: 0 5px 5px rgba(105, 127, 138, 0.39);
+    box-shadow: 0 5px 5px rgba(94, 111, 119, 0.39);
     padding: 0 1.5rem;
     display: flex;
     align-items: center;
@@ -40,6 +40,8 @@ body{
     position: fixed;
     top:100px;
     right: 10px;
+    border-radius: 1rem;
+    box-shadow: 0 5px 5px rgba(94, 111, 119, 0.39);
 }
 .right-content img{
     margin: 1.5rem;
@@ -59,12 +61,14 @@ body{
     margin-top: 1rem;
 }
 .abilities .group{
-    background-color: #146bbd6e;
+    background-color: #403944be;
     color: rgba(214, 200, 200, 0.966);
     padding: 0.5rem;
     font-size: 12px;
     border-radius: 8px;
     margin-left: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0 5px 5px rgba(94, 111, 119, 0.39);
 }
 .base-stat{
     margin-top: 2rem;
@@ -81,7 +85,9 @@ body{
     font-size: 17px;
     font-weight: bold;
     color: rgba(214, 200, 200, 0.966);
-    background-color: #146bbd6e;
+    background-color: #403944be;
     border-radius: 8px;
     cursor: pointer;
+    border-radius: 1rem;
+    box-shadow: 0 5px 5px rgba(94, 111, 119, 0.39);
 }
