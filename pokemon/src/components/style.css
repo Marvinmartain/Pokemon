@@ -5,7 +5,7 @@
     font-family: 'Roboto', sans-serif;
 }
 body{
-    background-color: #FCEEC8;
+    background-color: #25211457;
 }
 .container{
     width: 90%;
@@ -23,9 +23,9 @@ body{
 }
 .card{
     width: 180px;
-    background-color:#9EDEF9;
+    background-color:#12121344;
     border-radius: 1rem;
-    box-shadow: 0 5px 5px rgba(0,0,0,0.5);
+    box-shadow: 0 5px 5px rgba(156, 12, 12, 0.555);
     padding: 0 1.5rem;
     display: flex;
     align-items: center;
@@ -36,7 +36,7 @@ body{
 .right-content{
     width: 50%;
     text-align: center;
-    color: black;
+    color: rgb(75, 75, 75);
     position: fixed;
     top:100px;
     right: 10px;
@@ -59,8 +59,8 @@ body{
     margin-top: 1rem;
 }
 .abilities .group{
-    background-color: #b74555;
-    color: white;
+    background-color: #b745546e;
+    color: rgba(214, 200, 200, 0.966);
     padding: 0.5rem;
     font-size: 12px;
     border-radius: 8px;
@@ -80,8 +80,8 @@ body{
     margin: 1rem;
     font-size: 17px;
     font-weight: bold;
-    color: white;
-    background-color: #b74555;
+    color: rgba(214, 200, 200, 0.966);
+    background-color: #b745546e;
     border-radius: 8px;
     cursor: pointer;
 }
